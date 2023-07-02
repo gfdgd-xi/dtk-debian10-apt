@@ -1,0 +1,19 @@
+Package: libdtkgui5-bin-dbgsym
+Architecture: mipsel
+Version: 5.6.4-1
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dtkgui
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 856
+Depends: libdtkgui5-bin (= 5.6.4-1)
+Filename: ./mipsel/5.6.4/libdtkgui5-bin-dbgsym_5.6.4-1_mipsel.deb
+Size: 809312
+MD5sum: 0110ab52a0befe89888f94af577c61a5
+SHA1: c040eca233f236c96d6fb7225f62f924e21efac4
+SHA256: c275becc7a8c4dcb98f9789a7a51c5bc147c0a314440117892446c71cf5326e4
+SHA512: 2b847af536d876953acfe133e9bd8f49a605cf53f72f5c4d90180af93a21d2ae08efdb984aa6405113ac75a5b9a30b160b371d00072112322e4839adec345b60
+Description: debug symbols for libdtkgui5-bin
+Build-Ids: 0d901fee62f0bcf64fab7bc4e7c9d91019d38d82 321e302f2dfc4f4e491d441d88f1b85996d997be 8101142e0372d827d21537575736d4712bad7ac1 a15bc933c816209e887fee58d7a6e10616152f2c d09aef88b51e2eb46b8350ced436d9702ac8d235
+
