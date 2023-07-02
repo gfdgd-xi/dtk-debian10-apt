@@ -1,0 +1,21 @@
+Package: libdtkcommon
+Architecture: amd64
+Version: 5.6.4
+Priority: optional
+Section: libdevel
+Source: dtkcommon
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 11
+Depends: dconf-gsettings-backend | gsettings-backend
+Conflicts: libdtkcore5 (<< 5.4.10)
+Replaces: libdtkcore5 (<< 5.4.10)
+Filename: ./amd64/5.6.4/libdtkcommon_5.6.4_amd64.deb
+Size: 2300
+MD5sum: aa9aa25ef513583da3a7a518f2fd96c4
+SHA1: ce5316fd80dd48afe842fd06d1f5a72a74250445
+SHA256: 2343282c6b6cf28e7a5e6e2396dd6d64b60e23e01df05de2a05c716927946358
+SHA512: 2117080c3d79d6b6010795280cafddd2e8eb5e712a5ede07154e5cdc7b2af867a34a0ad330696967228cba305717c265434b2125c99049877ca505e52da3c055
+Homepage: http://www.deepin.org/
+Description: dtk common files
+ Used to store public configuration files
+

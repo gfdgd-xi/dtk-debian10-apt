@@ -1,0 +1,20 @@
+Package: libdde-waylandclient-dbgsym
+Architecture: amd64
+Version: 1.0.0-1+rb2
+Auto-Built-Package: debug-symbols
+Multi-Arch: same
+Priority: optional
+Section: debug
+Source: dde-wayland
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 438
+Depends: libdde-waylandclient (= 1.0.0-1+rb2)
+Filename: ./amd64/5.6.4/libdde-waylandclient-dbgsym_1.0.0-1+rb2_amd64.deb
+Size: 409804
+MD5sum: 509d23bd257a9ed49a672cdf8bbc9dda
+SHA1: f8b15fbfcbab8d8649e02ec622b2e8cdb5d4e140
+SHA256: e04cf0ddc625031c695d44852ae3b12ced70111fd15ffb01c4e77c8736a33671
+SHA512: 4f35359671fce08030ad65d6f484c026ae1cb6f183b3613d2bed2007ec0f9917376fd5a32df410f6cd579260211529886575ee761145eb7978b05f4aa9c38649
+Description: debug symbols for libdde-waylandclient
+Build-Ids: 9adca9b2593dd75e3a59715c78c262aa3bfc5fd4
+

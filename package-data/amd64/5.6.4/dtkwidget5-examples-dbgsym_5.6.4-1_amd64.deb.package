@@ -1,0 +1,19 @@
+Package: dtkwidget5-examples-dbgsym
+Architecture: amd64
+Version: 5.6.4-1
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dtkwidget
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 3594
+Depends: dtkwidget5-examples (= 5.6.4-1)
+Filename: ./amd64/5.6.4/dtkwidget5-examples-dbgsym_5.6.4-1_amd64.deb
+Size: 3507004
+MD5sum: 05a1dc17deba845a201ecf003b359501
+SHA1: 0b1dd7c4ce0d37429d8bbda40c1efdfb91bb719b
+SHA256: a5e7c75db0d56450a3363007d9b5802225913f459ad32c424deaca1cdf747c37
+SHA512: 7dec6117f5f9b15cbd33b670af3c5e4a702efdde06065d73ddf308a041f82794e43c75838d4aed8cb7d970f94048616d456d2c3e32a9138f6f1616c115e23675
+Description: debug symbols for dtkwidget5-examples
+Build-Ids: b866846385003c4e144d5ca324b270460bc84ba6
+
