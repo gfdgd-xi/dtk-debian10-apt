@@ -1,0 +1,21 @@
+Package: libdtkcommon-dev
+Architecture: mipsel
+Version: 5.6.4-1
+Priority: optional
+Section: libdevel
+Source: dtkcommon
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 51
+Depends: libdtkcommon (= 5.6.4-1)
+Conflicts: libdtkcore-dev (<< 5.4.10)
+Replaces: libdtkcore-dev (<< 5.4.10)
+Filename: ./mipsel/5.6.4/libdtkcommon-dev_5.6.4-1_mipsel.deb
+Size: 9280
+MD5sum: 0582abeb7426b339b85437c9817d1404
+SHA1: 33457960b8aa1852cf5534d70cc57232d5e2dea6
+SHA256: ef49e25ec5c4d0009e6cf86de84ad63d53453532ca90f3974eadd47d92c319a8
+SHA512: 3ba51538b8e1fe7729585432f2329cda06a35ced03b2dfa2d240506d4dc7c3259f705da105e99bee91615292eac0ad38e7a2edd750217fb472e0fef74793fc2b
+Homepage: http://www.deepin.org/
+Description: dtk common files
+ Used to store public build files
+
