@@ -9,7 +9,7 @@ Installed-Size: 11
 Depends: dconf-gsettings-backend | gsettings-backend
 Conflicts: libdtkcore5 (<< 5.4.10), libdtkgui5 (<< 5.4.10)
 Replaces: libdtkcore5 (<< 5.4.10), libdtkgui5 (<< 5.4.10)
-Filename: ./libdtkcommon_5.5.23-1_amd64.deb
+Filename: ./amd64/5.6.2.2/libdtkcommon_5.5.23-1_amd64.deb
 Size: 2188
 MD5sum: ada3a45676b18a20b7a7af35aea36fca
 SHA1: 7619fe965538608017c93b2b9e7a61a263215956

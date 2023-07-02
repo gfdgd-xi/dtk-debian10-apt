@@ -7,7 +7,7 @@ Source: dtkwidget
 Maintainer: Deepin Packages Builder <packages@deepin.com>
 Installed-Size: 48
 Depends: libc6 (>= 2.4), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libgcc1 (>= 1:3.0), libqt5core5a (>= 5.11.0~rc1), libqt5gui5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 4.1.1), libdtkwidget5 (= 5.6.2.2+1-1), libqt5x11extras5-dev, libdtkcore-dev, libqt5svg5-dev
-Filename: ./libdtkwidget5-bin_5.6.2.2+1-1_amd64.deb
+Filename: ./amd64/5.6.2.2/libdtkwidget5-bin_5.6.2.2+1-1_amd64.deb
 Size: 21416
 MD5sum: 963000214bcc14bc2692b50ee16ece4c
 SHA1: 5c79656aeac2d94790a4d90cdbf172a5e2ac6401

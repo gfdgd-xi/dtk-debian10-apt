@@ -7,7 +7,7 @@ Source: dtkcore
 Maintainer: Deepin Packages Builder <packages@deepin.com>
 Installed-Size: 275
 Depends: libdtkcore5 (= 5.6.2.2-1), libdtkcommon-dev
-Filename: ./libdtkcore-dev_5.6.2.2-1_amd64.deb
+Filename: ./amd64/5.6.2.2/libdtkcore-dev_5.6.2.2-1_amd64.deb
 Size: 39024
 MD5sum: ef744f9ac3b4f30c11fde9a5d60de866
 SHA1: 35a96687a0c5feb2256e60331ca856e518b54b26

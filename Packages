@@ -7,7 +7,7 @@ Source: dtkwidget
 Maintainer: Deepin Packages Builder <packages@deepin.com>
 Installed-Size: 490
 Depends: libdtkwidget5 (= 5.6.2.2+1-1), libqt5x11extras5-dev, libdtkcore-dev, libqt5svg5-dev, libdtkgui-dev, libcups2-dev
-Filename: ./libdtkwidget-dev_5.6.2.2+1-1_amd64.deb
+Filename: ./amd64/5.6.2.2/libdtkwidget-dev_5.6.2.2+1-1_amd64.deb
 Size: 66196
 MD5sum: 515be90cadaef7f838a54ee579146f1a
 SHA1: 221d9e001fb06f0a6e433322bc7dcbd1bdc9d8f7
@@ -28,7 +28,7 @@ Source: dtkcore
 Maintainer: Deepin Packages Builder <packages@deepin.com>
 Installed-Size: 275
 Depends: libdtkcore5 (= 5.6.2.2-1), libdtkcommon-dev
-Filename: ./libdtkcore-dev_5.6.2.2-1_amd64.deb
+Filename: ./amd64/5.6.2.2/libdtkcore-dev_5.6.2.2-1_amd64.deb
 Size: 39024
 MD5sum: ef744f9ac3b4f30c11fde9a5d60de866
 SHA1: 35a96687a0c5feb2256e60331ca856e518b54b26
@@ -48,7 +48,7 @@ Source: dtkgui
 Maintainer: Deepin Packages Builder <packages@deepin.com>
 Installed-Size: 108
 Depends: libdtkgui5 (= 5.6.2.2+2-1)
-Filename: ./libdtkgui-dev_5.6.2.2+2-1_amd64.deb
+Filename: ./amd64/5.6.2.2/libdtkgui-dev_5.6.2.2+2-1_amd64.deb
 Size: 15704
 MD5sum: 59d25203c42b667c22b84f32d0c744f4
 SHA1: 4736fcd505adf1d331950475bf2e611f3cc3b8e1
@@ -69,7 +69,7 @@ Source: dtkwidget
 Maintainer: Deepin Packages Builder <packages@deepin.com>
 Installed-Size: 281
 Depends: libdtkwidget5-bin (= 5.6.2.2+1-1)
-Filename: ./libdtkwidget5-bin-dbgsym_5.6.2.2+1-1_amd64.deb
+Filename: ./amd64/5.6.2.2/libdtkwidget5-bin-dbgsym_5.6.2.2+1-1_amd64.deb
 Size: 270008
 MD5sum: 84807cd6b32ffb6537cda5cce6988e24
 SHA1: 025c9803f017ed971c69cb39a75356f2d248a9be
@@ -89,7 +89,7 @@ Installed-Size: 11
 Depends: dconf-gsettings-backend | gsettings-backend
 Conflicts: libdtkcore5 (<< 5.4.10), libdtkgui5 (<< 5.4.10)
 Replaces: libdtkcore5 (<< 5.4.10), libdtkgui5 (<< 5.4.10)
-Filename: ./libdtkcommon_5.5.23-1_amd64.deb
+Filename: ./amd64/5.6.2.2/libdtkcommon_5.5.23-1_amd64.deb
 Size: 2188
 MD5sum: ada3a45676b18a20b7a7af35aea36fca
 SHA1: 7619fe965538608017c93b2b9e7a61a263215956
@@ -109,7 +109,7 @@ Source: dtkwidget
 Maintainer: Deepin Packages Builder <packages@deepin.com>
 Installed-Size: 3366
 Depends: dtkwidget5-examples (= 5.6.2.2+1-1)
-Filename: ./dtkwidget5-examples-dbgsym_5.6.2.2+1-1_amd64.deb
+Filename: ./amd64/5.6.2.2/dtkwidget5-examples-dbgsym_5.6.2.2+1-1_amd64.deb
 Size: 3281512
 MD5sum: cfb950c648846bdb7d4e6572e50b37b4
 SHA1: e15fcd45f078f82ce72024e7a86d5ce986f7c122
@@ -127,7 +127,7 @@ Source: dtkwidget
 Maintainer: Deepin Packages Builder <packages@deepin.com>
 Installed-Size: 48
 Depends: libc6 (>= 2.4), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libgcc1 (>= 1:3.0), libqt5core5a (>= 5.11.0~rc1), libqt5gui5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 4.1.1), libdtkwidget5 (= 5.6.2.2+1-1), libqt5x11extras5-dev, libdtkcore-dev, libqt5svg5-dev
-Filename: ./libdtkwidget5-bin_5.6.2.2+1-1_amd64.deb
+Filename: ./amd64/5.6.2.2/libdtkwidget5-bin_5.6.2.2+1-1_amd64.deb
 Size: 21416
 MD5sum: 963000214bcc14bc2692b50ee16ece4c
 SHA1: 5c79656aeac2d94790a4d90cdbf172a5e2ac6401
@@ -147,7 +147,7 @@ Section: libdevel
 Source: dtkcore
 Maintainer: Deepin Packages Builder <packages@deepin.com>
 Installed-Size: 1886
-Filename: ./libdtkcore-doc_5.6.2.2-1_amd64.deb
+Filename: ./amd64/5.6.2.2/libdtkcore-doc_5.6.2.2-1_amd64.deb
 Size: 1172492
 MD5sum: d23a887af52d7388c42062fd291b6054
 SHA1: 30d0c998b71a74e24caf456baa4d558c4ffd2a6d
@@ -167,7 +167,7 @@ Source: dtkgui
 Maintainer: Deepin Packages Builder <packages@deepin.com>
 Installed-Size: 125
 Depends: libc6 (>= 2.14), libdtkcore5 (>= 5.6), libdtkgui5 (= 5.6.2.2+2-1), libgcc1 (>= 1:3.0), libqt5core5a (>= 5.11.0~rc1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 6), libx11-6
-Filename: ./libdtkgui5-bin_5.6.2.2+2-1_amd64.deb
+Filename: ./amd64/5.6.2.2/libdtkgui5-bin_5.6.2.2+2-1_amd64.deb
 Size: 28132
 MD5sum: 7723c84940590b7f8876db114ed8becb
 SHA1: 901f6a19d2816386396b48a36447f799527c19a2
@@ -186,7 +186,7 @@ Section: libdevel
 Source: dtkwidget
 Maintainer: Deepin Packages Builder <packages@deepin.com>
 Installed-Size: 20
-Filename: ./dtkwidget-doc_5.6.2.2+1-1_amd64.deb
+Filename: ./amd64/5.6.2.2/dtkwidget-doc_5.6.2.2+1-1_amd64.deb
 Size: 14400
 MD5sum: 4e06eda9f0a35b05c29c8ec315eb0107
 SHA1: b2a5320f5f904c36268b66daf4480ab395b6605c
@@ -209,7 +209,7 @@ Source: dtkcore
 Maintainer: Deepin Packages Builder <packages@deepin.com>
 Installed-Size: 7394
 Depends: libdtkcore5 (= 5.6.2.2-1)
-Filename: ./libdtkcore5-dbgsym_5.6.2.2-1_amd64.deb
+Filename: ./amd64/5.6.2.2/libdtkcore5-dbgsym_5.6.2.2-1_amd64.deb
 Size: 7264408
 MD5sum: aa5f4fb4db106402c760f683aeedccd7
 SHA1: 53e3a8b56eb1b3eb2cc06f8e87af67630c3f44e7
@@ -227,7 +227,7 @@ Source: dtkwidget
 Maintainer: Deepin Packages Builder <packages@deepin.com>
 Installed-Size: 18428
 Depends: libc6 (>= 2.14), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (= 5.6.2.2+1-1), libgcc1 (>= 1:3.0), libqt5core5a (>= 5.11.0~rc1), libqt5gui5 (>= 5.7.0), libqt5printsupport5 (>= 5.0.2), libqt5widgets5 (>= 5.6.0~rc), libstdc++6 (>= 4.1.1)
-Filename: ./dtkwidget5-examples_5.6.2.2+1-1_amd64.deb
+Filename: ./amd64/5.6.2.2/dtkwidget5-examples_5.6.2.2+1-1_amd64.deb
 Size: 15006808
 MD5sum: fdea292bdde420574e0da1521c662677
 SHA1: 56153afa0103b561a66c169570277cff654d4565
@@ -250,7 +250,7 @@ Installed-Size: 59
 Depends: libdtkcommon (= 5.5.23-1)
 Conflicts: libdtkcore-dev (<< 5.4.10)
 Replaces: libdtkcore-dev (<< 5.4.10)
-Filename: ./libdtkcommon-dev_5.5.23-1_amd64.deb
+Filename: ./amd64/5.6.2.2/libdtkcommon-dev_5.5.23-1_amd64.deb
 Size: 10552
 MD5sum: 0c3cbc892220db44c6b457e1abc7d878
 SHA1: b3114852cff3d79ac02a8933bab66fc2d01d96de
@@ -268,7 +268,7 @@ Section: libdevel
 Source: dtkgui
 Maintainer: Deepin Packages Builder <packages@deepin.com>
 Installed-Size: 990
-Filename: ./libdtkgui-doc_5.6.2.2+2-1_amd64.deb
+Filename: ./amd64/5.6.2.2/libdtkgui-doc_5.6.2.2+2-1_amd64.deb
 Size: 578080
 MD5sum: 9d3cc1860b37638f5dc332bb02575030
 SHA1: 052eb5da2e990c31e79454afbe2cf9412138f127
@@ -290,7 +290,7 @@ Source: dtkgui
 Maintainer: Deepin Packages Builder <packages@deepin.com>
 Installed-Size: 4769
 Depends: libdtkgui5 (= 5.6.2.2+2-1)
-Filename: ./libdtkgui5-dbgsym_5.6.2.2+2-1_amd64.deb
+Filename: ./amd64/5.6.2.2/libdtkgui5-dbgsym_5.6.2.2+2-1_amd64.deb
 Size: 4647588
 MD5sum: 68e59982cd8b08c2749079ed4435fce2
 SHA1: 819c5b79434db724d935a1967d3bca10be0c5d86
@@ -309,7 +309,7 @@ Source: dtkgui
 Maintainer: Deepin Packages Builder <packages@deepin.com>
 Installed-Size: 832
 Depends: libc6 (>= 2.14), libdtkcore5 (>= 5.6), libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.12.0), libqt5core5a (>= 5.11.0~rc1), libqt5dbus5 (>= 5.5.0), libqt5gui5 (>= 5.11.0~rc1), libqt5network5 (>= 5.0.2), libqt5xdgiconloader3 (>= 3.0.0), libstdc++6 (>= 4.8), qtbase-abi-5-11-3, libdtkcommon, qt5-image-formats-plugins
-Filename: ./libdtkgui5_5.6.2.2+2-1_amd64.deb
+Filename: ./amd64/5.6.2.2/libdtkgui5_5.6.2.2+2-1_amd64.deb
 Size: 219400
 MD5sum: adb4b02a18320c7afebac63ee55e01a4
 SHA1: ce338892fa16fb3ea428f28f62500b686de526f6
@@ -329,7 +329,7 @@ Source: dtkcore
 Maintainer: Deepin Packages Builder <packages@deepin.com>
 Installed-Size: 346
 Depends: libc6 (>= 2.4), libdtkcore5 (= 5.6.2.2-1), libgcc1 (>= 1:3.0), libgsettings-qt1 (>= 0.1+14.04.20140408), libqt5core5a (>= 5.11.0~rc1), libqt5dbus5 (>= 5.0.2), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 4.1.1), qtbase-abi-5-11-3
-Filename: ./libdtkcore5-bin_5.6.2.2-1_amd64.deb
+Filename: ./amd64/5.6.2.2/libdtkcore5-bin_5.6.2.2-1_amd64.deb
 Size: 98564
 MD5sum: 7c6fb3f101cf238fb84cfb4501206301
 SHA1: a3419de11bf128657271284db974da5d49803f3a
@@ -350,7 +350,7 @@ Source: dtkgui
 Maintainer: Deepin Packages Builder <packages@deepin.com>
 Installed-Size: 733
 Depends: libdtkgui5-bin (= 5.6.2.2+2-1)
-Filename: ./libdtkgui5-bin-dbgsym_5.6.2.2+2-1_amd64.deb
+Filename: ./amd64/5.6.2.2/libdtkgui5-bin-dbgsym_5.6.2.2+2-1_amd64.deb
 Size: 692196
 MD5sum: c4f7e41b2a90528f2dde57dc1e26528f
 SHA1: e6ccb060bcbc59cd37291e694b3d14fab05267f1
@@ -369,7 +369,7 @@ Source: dtkcore
 Maintainer: Deepin Packages Builder <packages@deepin.com>
 Installed-Size: 1461
 Depends: libc6 (>= 2.14), libgcc1 (>= 1:3.0), libgsettings-qt1 (>= 0.1+14.04.20140408), libqt5core5a (>= 5.11.0~rc1), libqt5dbus5 (>= 5.0.2), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 5.2), qtbase-abi-5-11-3, lshw, libdtkcommon
-Filename: ./libdtkcore5_5.6.2.2-1_amd64.deb
+Filename: ./amd64/5.6.2.2/libdtkcore5_5.6.2.2-1_amd64.deb
 Size: 409512
 MD5sum: c5267e92b95bd63ee81c8bc8c522e457
 SHA1: a081edfc6075e1a8a583ecc17a93b27ac1397346
@@ -390,7 +390,7 @@ Source: dtkcore
 Maintainer: Deepin Packages Builder <packages@deepin.com>
 Installed-Size: 1549
 Depends: libdtkcore5-bin (= 5.6.2.2-1)
-Filename: ./libdtkcore5-bin-dbgsym_5.6.2.2-1_amd64.deb
+Filename: ./amd64/5.6.2.2/libdtkcore5-bin-dbgsym_5.6.2.2-1_amd64.deb
 Size: 1494752
 MD5sum: ff5cff137644b3def19c7b4f26ace739
 SHA1: 6080ed373bc28e86e4900647e641652deb079c11
@@ -410,7 +410,7 @@ Source: dtkwidget
 Maintainer: Deepin Packages Builder <packages@deepin.com>
 Installed-Size: 22024
 Depends: libdtkwidget5 (= 5.6.2.2+1-1)
-Filename: ./libdtkwidget5-dbgsym_5.6.2.2+1-1_amd64.deb
+Filename: ./amd64/5.6.2.2/libdtkwidget5-dbgsym_5.6.2.2+1-1_amd64.deb
 Size: 21716880
 MD5sum: 6508b84ee49bec55f63f1f2e3f227939
 SHA1: 1953038d9eee38d75812b71659494b2db13a4d33
@@ -429,7 +429,7 @@ Source: dtkwidget
 Maintainer: Deepin Packages Builder <packages@deepin.com>
 Installed-Size: 3608
 Depends: libc6 (>= 2.14), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libgcc1 (>= 1:3.0), libgsettings-qt1 (>= 0.1+14.04.20140408), libqt5core5a (>= 5.11.0~rc1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.11.0~rc1), libqt5network5 (>= 5.0.2), libqt5printsupport5 (>= 5.11.0~rc1), libqt5widgets5 (>= 5.11.0~rc1), libqt5x11extras5 (>= 5.6.0), libstartup-notification0 (>= 0.10), libstdc++6 (>= 5.2), libx11-6 (>= 2:1.2.99.901), libxcb-util0 (>= 0.3.8), libxcb1, libxext6, libxi6 (>= 2:1.2.99.4), qtbase-abi-5-11-3, libdtkcommon, libqt5widgets5 (>= 5.11.3.33) | libqt5widgets5 (<= 5.11.3.28)
-Filename: ./libdtkwidget5_5.6.2.2+1-1_amd64.deb
+Filename: ./amd64/5.6.2.2/libdtkwidget5_5.6.2.2+1-1_amd64.deb
 Size: 861900
 MD5sum: 0b2151cedf559a3bf995c8dc63912d9f
 SHA1: 48a9b8bec2c1eedb01cd08c044505a6f19c56de5

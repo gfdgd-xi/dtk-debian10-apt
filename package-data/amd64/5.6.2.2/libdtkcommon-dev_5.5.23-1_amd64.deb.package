@@ -9,7 +9,7 @@ Installed-Size: 59
 Depends: libdtkcommon (= 5.5.23-1)
 Conflicts: libdtkcore-dev (<< 5.4.10)
 Replaces: libdtkcore-dev (<< 5.4.10)
-Filename: ./libdtkcommon-dev_5.5.23-1_amd64.deb
+Filename: ./amd64/5.6.2.2/libdtkcommon-dev_5.5.23-1_amd64.deb
 Size: 10552
 MD5sum: 0c3cbc892220db44c6b457e1abc7d878
 SHA1: b3114852cff3d79ac02a8933bab66fc2d01d96de
