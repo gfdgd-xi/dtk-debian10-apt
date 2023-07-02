@@ -1,0 +1,20 @@
+Package: libdtkcore5-dbgsym
+Architecture: mipsel
+Version: 5.6.4-1
+Auto-Built-Package: debug-symbols
+Multi-Arch: same
+Priority: optional
+Section: debug
+Source: dtkcore
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 7177
+Depends: libdtkcore5 (= 5.6.4-1)
+Filename: ./mipsel/5.6.4/libdtkcore5-dbgsym_5.6.4-1_mipsel.deb
+Size: 7081860
+MD5sum: 45c63279e696af9230639ff2420ddb07
+SHA1: 791108a7a487a2dfe814d33052a95811f4fe9b44
+SHA256: 4eb6c310b636960961d91a4f3af419154e65afbda9c461693b1b8b261c93cd3e
+SHA512: 62fa30a73058dfe0480a41e31df6d19236c263f36f00ef3e8b7351552d3040ee8fc54483ae049c1d3fa5ae61a58d7434dac492973a54ff6139448102b8526fba
+Description: debug symbols for libdtkcore5
+Build-Ids: 13eb8859627984288ba4dad79adb1af082ceeeb6
+

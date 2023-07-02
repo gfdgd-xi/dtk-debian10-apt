@@ -1,0 +1,20 @@
+Package: libdtkcore5-dbgsym
+Architecture: i386
+Version: 5.6.4-1
+Auto-Built-Package: debug-symbols
+Multi-Arch: same
+Priority: optional
+Section: debug
+Source: dtkcore
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 7223
+Depends: libdtkcore5 (= 5.6.4-1)
+Filename: ./i386/5.6.4/libdtkcore5-dbgsym_5.6.4-1_i386.deb
+Size: 7147332
+MD5sum: 2f0fa72aaa986dac634018845ea93f4e
+SHA1: e701ba8dc63da4df84c4ed37bfe6d31f78709a32
+SHA256: ec1d146947cdf11e9dddd731268d0c512bf87c1e7766a7ec136b52dac213fe66
+SHA512: 7d8abd4cc9ad382e82fd9bd98e9d1c379269d17d0a13a13342ef605cd2263c073a0bf1a078a471cd4de7c172f4c61cb03ef2c8ef02ab1f0209ec30ff1a895d0d
+Description: debug symbols for libdtkcore5
+Build-Ids: 652524e4bfd591ef38a4415cc4c834204a58977f
+
