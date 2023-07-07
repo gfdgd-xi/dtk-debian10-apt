@@ -1,0 +1,20 @@
+Package: libdtkgui5-bin
+Architecture: armhf
+Version: 5.6.4-1
+Priority: optional
+Section: libdevel
+Source: dtkgui
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 125
+Depends: libc6 (>= 2.4), libdtkcore5 (>= 5.6), libdtkgui5 (= 5.6.4-1), libgcc1 (>= 1:3.5), libqt5core5a (>= 5.10.0), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.0.2), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 6), libx11-6
+Filename: ./armhf/5.6.4/libdtkgui5-bin_5.6.4-1_armhf.deb
+Size: 37940
+MD5sum: 3fd7732a3025221eaab52787660fee9d
+SHA1: 8fcca96dc8daca961cfe505adabc9d310218f060
+SHA256: c6fa0fb2c2228b8fddb554c0dc89736edcdb0927a1e2797669e3856e90842a04
+SHA512: 194cdf210d2cb8d33ab82c390d4b6511587083d56596a6badce58cf74789e775b9de02359f8815b0c00f9d70c031a0b486d53fc5bc3253db0048affe4780027c
+Description: Deepin Tool Kit Gui Utilities
+ DtkGui is base devel library of Deepin Qt/C++ applications.
+ .
+ This package contains the utilities of DtkGui
+

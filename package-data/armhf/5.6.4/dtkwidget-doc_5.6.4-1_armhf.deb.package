@@ -1,0 +1,20 @@
+Package: dtkwidget-doc
+Architecture: armhf
+Version: 5.6.4-1
+Priority: optional
+Section: libdevel
+Source: dtkwidget
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 20
+Filename: ./armhf/5.6.4/dtkwidget-doc_5.6.4-1_armhf.deb
+Size: 14424
+MD5sum: f439105fe5fbf361a5c9e105e7709a38
+SHA1: f7e7c7e08228ee1675ffffca61a11a000d8d1662
+SHA256: b5550f84633de01779720e4c8284d53905a6ffc8a8bc8f6d4aad91fe5a7fe7f0
+SHA512: 35c9a5d505d4f06159fff249f804f4d527ddd08189190f569f10980ad4a409543d43443254012a6daa7210d6469baa0406f3162cff855e6564c680630f8c5bec
+Description: Deepin graphical user interface library (Document)
+ DtkWidget is Deepin graphical user interface for deepin desktop development.
+ .
+ This package contains example application which are
+ needed for developing Deepin applications.
+

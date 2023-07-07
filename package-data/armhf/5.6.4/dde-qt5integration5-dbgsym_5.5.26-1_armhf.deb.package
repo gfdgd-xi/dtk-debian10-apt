@@ -1,0 +1,19 @@
+Package: dde-qt5integration5-dbgsym
+Architecture: armhf
+Version: 5.5.26-1
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: qt5integration
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 4677
+Depends: dde-qt5integration5 (= 5.5.26-1)
+Filename: ./armhf/5.6.4/dde-qt5integration5-dbgsym_5.5.26-1_armhf.deb
+Size: 4520912
+MD5sum: 97effcf1843d58381b0eb28032995a55
+SHA1: 5249904dc77cc3d3ea46d22204ce758af5a463d0
+SHA256: cce39dfdea1f4a993046b0fd2ede4177972c7b9561963f4941a8e0c3a68d0656
+SHA512: 2d253cb32c32aef6e6175cbed75c0b2610da150ec626388863be88c8101a0cbfe26866c6fe36f7176d89b5592160be470010af4e5401637a3e82f561be18ab10
+Description: debug symbols for dde-qt5integration5
+Build-Ids: 41877b3c78a61efeb8dd1dcef34dd587f90fdf9e 4286bc21808c069c21b5cbf7fbd2e22924a69deb 7618321e6a620ba8efa4500e78b3a710328a9b96 9959c0ef02c0442b9ce5330c682b28ebb478f5aa b5011bee19b7a5f60b9955a33e28428462936e8b b82af517c0416a5c954ba7514ae5999faef4ece6
+

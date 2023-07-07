@@ -1,0 +1,18 @@
+Package: dde-qt5integration5
+Architecture: armhf
+Version: 5.5.26-1
+Priority: optional
+Section: devel
+Source: qt5integration
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 766
+Depends: libc6 (>= 2.4), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc1 (>= 1:3.5), libgles2, libmtdev1 (>= 1.0.8), libqt5concurrent5 (>= 5.0.2), libqt5core5a (>= 5.10.0), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.11.0~rc1), libqt5network5 (>= 5.0.2), libqt5printsupport5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.10.0), libqt5x11extras5 (>= 5.6.0), libqt5xdg3 (>= 3.0.0), libqt5xdgiconloader3 (>= 3.0.0), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 5), libx11-6, qtbase-abi-5-11-3, dde-qt5xcb-plugin
+Filename: ./armhf/5.6.4/dde-qt5integration5_5.5.26-1_armhf.deb
+Size: 251256
+MD5sum: 9f752759fa98a096a53f49440d9f2a26
+SHA1: 7537eee2ccd4dd157d3de45580417c725f4f2ebe
+SHA256: 96c709e319ae403dd4ba808975871fb23296876b6c662db776498d7f4d97afb3
+SHA512: d015d0a047e98a68a87be77f3bc61d41810b14f0d76d27430438e4bc4063d9af8234a987d1df0a408fd8310a1b799a47a62277076ff147c3be9645fd08b3a6ca
+Description: Qt platform theme integration plugins for DDE
+ Multiple Qt plugins to provide better Qt5 integration for DDE is included.
+

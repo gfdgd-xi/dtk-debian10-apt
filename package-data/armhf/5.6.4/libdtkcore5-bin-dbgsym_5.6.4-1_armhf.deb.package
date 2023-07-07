@@ -1,0 +1,19 @@
+Package: libdtkcore5-bin-dbgsym
+Architecture: armhf
+Version: 5.6.4-1
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dtkcore
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 2154
+Depends: libdtkcore5-bin (= 5.6.4-1)
+Filename: ./armhf/5.6.4/libdtkcore5-bin-dbgsym_5.6.4-1_armhf.deb
+Size: 2098724
+MD5sum: 0caa679d76d383419839a42f65435869
+SHA1: d42e174c663cee80c2ebcb4d347fff33ed5332c4
+SHA256: 707da15d3f0b9167384f13df4141d2100a099aea9bc162ff7463aa5d595ee071
+SHA512: 7cec61c2825fb768106ed281c1156c074035c68fff74fdd3101ef59f6589b91abd1c6ed73f08a43bccf2701e09f401124b320502cdc4ada1367631212af45049
+Description: debug symbols for libdtkcore5-bin
+Build-Ids: 052b97f1563e4af0f98639edd76c4c07f81ca5e7 8c03e43be7553037a4be981882caa00eb82e4c05 a14f726cfc7307dfdc6a759d3a9fd56e694e7dd5 f09e87468ce82508d8765fdc5c1449f9781b6928
+

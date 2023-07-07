@@ -1,0 +1,21 @@
+Package: libdtkcommon-dev
+Architecture: armhf
+Version: 5.6.4-1
+Priority: optional
+Section: libdevel
+Source: dtkcommon
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 51
+Depends: libdtkcommon (= 5.6.4-1)
+Conflicts: libdtkcore-dev (<< 5.4.10)
+Replaces: libdtkcore-dev (<< 5.4.10)
+Filename: ./armhf/5.6.4/libdtkcommon-dev_5.6.4-1_armhf.deb
+Size: 9292
+MD5sum: 7998ba516fd5f33e06cd678370d3a61e
+SHA1: 27d63da5bd4cf9198eac183f647d20cd47592ab2
+SHA256: 27fa110a97d26e6b7e6e0acef6df5b957d3e400275420494a68d7e2a11b82af1
+SHA512: 725f1be7650e55675aa595129473ca7f14660b016fcec37b1461d80593083fb99e14fce5fa13517c1abd58093c56a42d49d7972c2e11cbff3a3f1b73558c29a4
+Homepage: http://www.deepin.org/
+Description: dtk common files
+ Used to store public build files
+

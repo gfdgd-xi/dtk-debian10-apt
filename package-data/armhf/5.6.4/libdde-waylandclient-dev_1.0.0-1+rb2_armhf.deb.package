@@ -1,0 +1,18 @@
+Package: libdde-waylandclient-dev
+Architecture: armhf
+Version: 1.0.0-1+rb2
+Priority: optional
+Section: devel
+Source: dde-wayland
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 17
+Depends: libdde-waylandclient (= 1.0.0-1+rb2)
+Filename: ./armhf/5.6.4/libdde-waylandclient-dev_1.0.0-1+rb2_armhf.deb
+Size: 2848
+MD5sum: 6b9eb1a492d0c78edfcb5b91dcf74b30
+SHA1: b3a6919b0c130deb6e9692b1b265dea5e44be6c0
+SHA256: 9fa7f607f8d29d06cb00a0857d50a5f561015d3b9c7cc3d5dfc9266d6faebd13
+SHA512: e6534f395164042f6abc3395e1f646fcfe986df91606be4452c94be0a61c539017b5b3a7066fcc917f9ccf762fb9d3afeafd60e127e174fc83e0a8eb8a5cdb4a
+Description: DDE wayland client library
+ include header files.
+

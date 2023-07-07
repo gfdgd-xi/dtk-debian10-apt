@@ -1,0 +1,20 @@
+Package: libdtkgui5-dbgsym
+Architecture: armhf
+Version: 5.6.4-1
+Auto-Built-Package: debug-symbols
+Multi-Arch: same
+Priority: optional
+Section: debug
+Source: dtkgui
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 3916
+Depends: libdtkgui5 (= 5.6.4-1)
+Filename: ./armhf/5.6.4/libdtkgui5-dbgsym_5.6.4-1_armhf.deb
+Size: 3792192
+MD5sum: 2837e5acbbdb273b6e0cd1456dc8ca7a
+SHA1: 24485c0fdfe4aea5c6b8dab3a364926064b79fc8
+SHA256: fd88e26d6314a1159d871ad8826307b7277754cebb9e99b0b8c28d1e403d134c
+SHA512: f251db49a820b496cac5ec2ded66239f30d0a64a3b0bcf2e539bd6ba96ee2568575a038be620e7b793a16d51a5179bf506d50ca6fd3ef14d5be4117c5cfd0f1b
+Description: debug symbols for libdtkgui5
+Build-Ids: 0a828a31c4837d54cb255a4224606ac2d518215f
+

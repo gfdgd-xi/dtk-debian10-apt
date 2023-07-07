@@ -1,0 +1,20 @@
+Package: libdtkwidget5-dbgsym
+Architecture: armhf
+Version: 5.6.4-1
+Auto-Built-Package: debug-symbols
+Multi-Arch: same
+Priority: optional
+Section: debug
+Source: dtkwidget
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 22517
+Depends: libdtkwidget5 (= 5.6.4-1)
+Filename: ./armhf/5.6.4/libdtkwidget5-dbgsym_5.6.4-1_armhf.deb
+Size: 22233324
+MD5sum: 871b92d30f1898540234158c140c60e9
+SHA1: d824cac908b69b66c00eb5ad1c138e6a08cddf7c
+SHA256: 15510275c43e7747c12f475d8e04906fb9baf0c3744d2f5e8a8cb57f2d3ec9c1
+SHA512: 719f4dede409a3deb55f939acfa3fd0f9a3a1adb95254f783cbf592d8430e48a2953abab038a8fbe69ea0f328922f590bdc368790a3a9fdd52bd613f4aea44da
+Description: debug symbols for libdtkwidget5
+Build-Ids: 4c3ae888c918a9caa76e31dd71723c8ae9331b07
+

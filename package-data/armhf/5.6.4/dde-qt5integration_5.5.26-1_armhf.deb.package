@@ -1,0 +1,21 @@
+Package: dde-qt5integration
+Architecture: armhf
+Version: 5.5.26-1
+Priority: optional
+Section: devel
+Source: qt5integration
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 153
+Provides: libqt5deepintheme-plugin
+Depends: libc6 (>= 2.4), libgcc1 (>= 1:3.5), libgles2, libqt5core5a (>= 5.5.0), libqt5gui5 (>= 5.9.0~beta), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5), qtbase-abi-5-11-3, dde-qt5xcb-plugin, dde-qt5integration5
+Conflicts: dde-qt5integration5.5, libqt5deepintheme-plugin
+Replaces: dde-qt5integration5.5
+Filename: ./armhf/5.6.4/dde-qt5integration_5.5.26-1_armhf.deb
+Size: 21768
+MD5sum: 7cc660ecbbd6a3593cd117c57fdc1e41
+SHA1: 262b5526796a976c95732af7b982dec4a4409281
+SHA256: 60423a07d0c6219109275df641b854a60cce549f9994e92e2a30428a84fba58f
+SHA512: 47074fb46b6f8858b20ebe10c546051f6519da91b4745f30e0a1f97373c05e8ae6f00d0d1b6784e8c6545bfac1dd062fee1172208cc056a2797f0af2ae65d45e
+Description: Qt platform theme integration plugin choosers for DDE
+ Multiple Qt plugin choosers for DDE is included.
+

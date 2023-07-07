@@ -1,0 +1,20 @@
+Package: libdtkwidget5-dbgsym
+Architecture: arm64
+Version: 5.6.4-1
+Auto-Built-Package: debug-symbols
+Multi-Arch: same
+Priority: optional
+Section: debug
+Source: dtkwidget
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 22383
+Depends: libdtkwidget5 (= 5.6.4-1)
+Filename: ./arm64/5.6.4/libdtkwidget5-dbgsym_5.6.4-1_arm64.deb
+Size: 22098048
+MD5sum: b069d35fd91632c3d698f3ba9e29e49c
+SHA1: 53c6f4b4e1f13ca43b573c564bf221c9f122b38c
+SHA256: 9b51abc42454786329f00041ab49d2b1cec2c426a9d1b90dd54d5ce1b06fff1b
+SHA512: 2d38ed2d7c19d153ab3da0f913aefec534733fc5674ffd2cac3596bea77db716f8936ee83de9c25283353d0e438799703525e07227101dfc1c3c5f6a8e911639
+Description: debug symbols for libdtkwidget5
+Build-Ids: 6bf76fde507e2d0cf23999ba7f17b0d6e251e302
+

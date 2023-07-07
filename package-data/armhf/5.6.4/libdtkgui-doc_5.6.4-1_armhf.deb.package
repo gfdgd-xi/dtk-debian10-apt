@@ -1,0 +1,19 @@
+Package: libdtkgui-doc
+Architecture: armhf
+Version: 5.6.4-1
+Priority: optional
+Section: libdevel
+Source: dtkgui
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 2098
+Filename: ./armhf/5.6.4/libdtkgui-doc_5.6.4-1_armhf.deb
+Size: 1310780
+MD5sum: ff683a621a3c322abbd0ab55009e9c4c
+SHA1: c53fc1b1b03cd305aefcfa64598ef0c6ad81f4f5
+SHA256: f893bce0ac6c59dc555c7d647ae364059e5ff35cd5e4e5d82fbd65d0b2a6d32f
+SHA512: f6d5bdfb2488c4dbc3d71e7804141b8903a08c07e481dbd6857c7b7f9b8f162e82ad7e42edb2e0e6a171fd784f0a9ebdd600532aa47701542e50985d842f2f4b
+Description: Deepin Tool Kit Gui (Document)
+ DtkGui is base devel library of Deepin Qt/C++ applications.
+ .
+ This package contains the qt Document of DtkGui
+

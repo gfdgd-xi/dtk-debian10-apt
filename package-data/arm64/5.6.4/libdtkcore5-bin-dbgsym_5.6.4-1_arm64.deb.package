@@ -1,0 +1,19 @@
+Package: libdtkcore5-bin-dbgsym
+Architecture: arm64
+Version: 5.6.4-1
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dtkcore
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 2151
+Depends: libdtkcore5-bin (= 5.6.4-1)
+Filename: ./arm64/5.6.4/libdtkcore5-bin-dbgsym_5.6.4-1_arm64.deb
+Size: 2076232
+MD5sum: 23f5226322e31b4dbfd53f2abd9753f0
+SHA1: b2b3617c614f6500515eb1d6d0eaaf0d1d8ce7f5
+SHA256: 4f8233e9e49caa0b3acd4465a122b8c7c181a9becc024a65ed4abda2be6d4977
+SHA512: e9b61dfce28fac15f68da1abde767675583226389a29d15fb84a66dbdfae787ae043499da7d9aa7029ec7b5a87ffacda576822f9c84822c9cf69b7f541808b8d
+Description: debug symbols for libdtkcore5-bin
+Build-Ids: 3c076acc39799562bd333d3960dded091081f988 b930529e34eaa9d72732021622603938d6a0b6f6 f1fd293e64a7ffa44deacf994a7f73c30efaf503 fbf4ff847026da0b6e879fb608a67978a77c7379
+
